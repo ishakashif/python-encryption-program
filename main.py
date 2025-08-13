@@ -12,4 +12,4 @@ print(f"key: {chars}")
 
 random.shuffle(key)
 
-#add lists
+#add listing
